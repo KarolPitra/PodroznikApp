@@ -1,7 +1,7 @@
 ﻿
 namespace PodroznikApp
 {
-    partial class Form1
+    partial class GlownyPanel
     {
         /// <summary>
         /// Wymagana zmienna projektanta.

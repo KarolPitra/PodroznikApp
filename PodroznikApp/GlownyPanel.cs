@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace PodroznikApp
 {
-    public partial class Form1 : Form
+    public partial class GlownyPanel : Form
     {
-        public Form1()
+        public GlownyPanel()
         {
             InitializeComponent();
             textBoxNazwaSamochodu.Text = "Nazwa...";
